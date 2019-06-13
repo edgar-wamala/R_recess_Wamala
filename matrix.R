@@ -1,0 +1,5 @@
+x = matrix(1:9,nrow =3,ncol=3, byrow =TRUE)
+print("matrix output")
+print(x)
+print("vector output")
+c(x)
